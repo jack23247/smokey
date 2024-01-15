@@ -34,3 +34,7 @@ export LSAN_OPTIONS=suppressions=lsan-suppressions.txt
 ## Running
 
 To run the program, launch `build/smokey` from the terminal.
+
+## Demo
+
+https://github.com/jack23247/smokey/assets/35559767/5d059473-9cb9-4896-8a35-2a2e551ef603
